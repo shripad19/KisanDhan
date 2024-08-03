@@ -124,7 +124,7 @@ Demo Video link
 
 ## Author
 
--- Onkar Waghmode
 -- Shripad Wattamwar
+-- Onkar Waghmode
 -- Atharva Wagh
 -- Aditya Zite
